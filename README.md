@@ -1,2 +1,2 @@
 # hash
-Hash shell written in RUST
+Shell written in RUST
