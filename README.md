@@ -1,2 +1,2 @@
-# hash
-HASH Programming Language
+# Hash
+Hash Programming Language
