@@ -1,2 +1,2 @@
 # hash
-Shell written in RUST
+HASH Programming Language
